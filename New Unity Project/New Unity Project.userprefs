@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ShootBall.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ShootBall.cs" Line="34" Column="19" />
+      <File FileName="Assets\Scripts\SmoothDamper.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\scoreMake.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Score.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RotateSwitch.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoveToOtherPlane.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\frontbumper2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FrontBumper.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Flipper.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bumper.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ApplyForceAtOffet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Flipper2.cs" Line="1" Column="1" />
+      <File FileName="Assets\hingejoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\newShooter.cs" Line="22" Column="11" />
+      <File FileName="Assets\Scripts\Sound.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
